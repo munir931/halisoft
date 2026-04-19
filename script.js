@@ -7,11 +7,11 @@ const projects = [
         features: ["Fast document scanning", "AI auto edge detection", "Image enhancement (HD)", "Secure offline storage"],
         link: "#", // Replace with your Play Store Link
         screenshots: [
-            "screenshots/camerascan_main.png.jpeg",
-            "screenshots/camerascan_main.png (2).jpeg",
-            "screenshots/camerascan_main.png (3).jpeg",
-            "screenshots/camerascan_main.png (4).jpeg",
-            "screenshots/camerascan_main.png (5).jpeg"
+            "camerascan_main.png.jpeg",
+            "camerascan_main.png (2).jpeg",
+            "camerascan_main.png (3).jpeg",
+            "camerascan_main.png (4).jpeg",
+            "camerascan_main.png (5).jpeg"
         ]
     }
 ];
